@@ -1,6 +1,6 @@
 # Prompt Manager
 
-Prompt Manager is a lightweight Python library for managing versioned prompts, designed to streamline and automate prompt management for AI developers.
+Prompt Manager is a lightweight Python library for managing versioned prompts, designed to streamline and automate prompt management for developers working with language models.
 
 ## Features
 
@@ -48,7 +48,7 @@ manager.add_prompt_version(
 print(manager.get_prompt("welcome_message", {"name": "Alice", "platform": "PromptManager"}))
 ```
 Real-World Impact
-By automating prompt management, Prompt Manager reduces manual overhead, ensures prompt consistency, and enables developers to focus on enhancing AI capabilities rather than managing configuration details.
+By automating prompt management, Prompt Manager reduces manual overhead, ensures prompt consistency, and enables developers to focus on improving language model applications rather than managing configuration details.
 
 Contributing
 Contributions are welcome! Please check the GitHub repository for contribution guidelines.

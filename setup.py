@@ -4,8 +4,8 @@ setup(
     name="prompt_manager",
     version="0.1.0",
     description="A simple library for managing versioned prompts.",
-    author="Faseeh Ahmed Mohammad",
-    author_email="faseehahmed2606@gmail.com",
+    author="Sami Ahmed Mohammed",
+    author_email="mohammedsamiahmed14@gmail.com",
     packages=find_packages(),
     install_requires=[
         "watchdog",  
